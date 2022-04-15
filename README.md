@@ -1,2 +1,2 @@
 # freecodecamp
-imagens para o freecodecamp
+imagens para o curso freecodecamp
